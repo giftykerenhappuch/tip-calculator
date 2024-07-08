@@ -1,1 +1,2 @@
 "# tip-calculator" 
+"# Tips-calculator" 
